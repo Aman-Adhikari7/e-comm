@@ -10,6 +10,7 @@ export default {
         
         "rabbit-red": "#ea2e0e"}
     },
+   
   },
   plugins: [],
 }
