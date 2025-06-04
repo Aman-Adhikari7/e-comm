@@ -48,6 +48,11 @@ const MyOrdersPage = () => {
           <thead className="bg-gray-100 text-xs uppercase text-gray-700">
             <tr>
               <th className="py-2 px-4 sm:py-3"></th>
+              <th className="py-2 px-4 sm:py-3"></th>
+              <th className="py-2 px-4 sm:py-3"></th>
+              <th className="py-2 px-4 sm:py-3"></th>
+              <th className="py-2 px-4 sm:py-3"></th>
+              <th className="py-2 px-4 sm:py-3"></th>
             </tr>
           </thead>
         </table>

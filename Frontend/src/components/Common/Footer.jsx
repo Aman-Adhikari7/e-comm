@@ -18,7 +18,7 @@ const Footer = () => {
                     Subscribe
                  </button>
              </form>
-        <div className="container mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 px-4 lg:px-0 ">
+        <div className="container  mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 px-4 lg:px-0 ">
           <div >
             <h3 className="text-lg text-gray-800 mb-4"> Newsletter</h3>
             <p className="text-gray-500 mb-4">

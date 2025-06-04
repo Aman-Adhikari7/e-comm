@@ -9,7 +9,7 @@ const Header = () => {
        <Topbar/>
        {/* navbar */}
        <Navbar/>
-
+      
        {/* Cart Drawer*/}
     </header>
   );
